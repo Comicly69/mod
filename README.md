@@ -5,7 +5,7 @@ NOTE: currently only for linux, windows version coming to release 1.0
 
 # Install
 
-run install.sh
+run `install.sh`
 
 # build from source:
 
